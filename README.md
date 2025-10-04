@@ -3,8 +3,8 @@
 
 ### 💻 &nbsp;About Me
 
-- 🎓 &nbsp; Studying Chemical Engineering at Facudade Politécnica da Univerisidade de São Paulo (POLI-USP).
-- 🤔 &nbsp; Super interest in technology and its possibilities to help the world🌎. 
+- 🎓 &nbsp; Studying Economics at Escola de Economia de São Paulo (FGV-EESP).
+- 🤔 &nbsp; Super interest in technology🌎. 
 
 ### 😀 &nbsp; Get in touch!
 <a href="https://www.linkedin.com/in/lucas-heluy-273532207/"><img height="30em" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/></a>
